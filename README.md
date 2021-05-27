@@ -1,7 +1,6 @@
 # opengl_sdl2-raycaster_engine
-A raycaster engine demo using SDL2 and OpenGL context
 
-__*Includes a pre-compiled build playable demo!__
+A raycaster engine demo using SDL2 and OpenGL context
 
 #
 
@@ -23,5 +22,3 @@ __[A] Turn Left__
 __[D] Turn Right__
 
 #
-
-*_requires __SDL.dll__ in the demo folder_
