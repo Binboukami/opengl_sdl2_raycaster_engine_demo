@@ -22,3 +22,5 @@ __[A] Turn Left__
 __[D] Turn Right__
 
 #
+
+__*requires SDL.dll to play__
