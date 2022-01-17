@@ -2,6 +2,9 @@
 
 A raycaster engine demo using SDL2 and OpenGL context
 
+## Archived
+As of **January 17, 2022** this repo is archieved and it's now read-only.
+
 #
 
 ![ray_screnshot](https://user-images.githubusercontent.com/43557272/119457206-ce68cb00-bd11-11eb-9043-56f47d413416.png)
